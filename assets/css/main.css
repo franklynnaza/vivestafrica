@@ -831,7 +831,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/videoimg.JPG") center center;
   background-size: cover;
   padding: 100px 60px;
   border-radius: 15px;
@@ -2694,4 +2694,7 @@ section {
 }
 .submit-btn{
   color: white !important;
+}
+.border-r{
+  border-radius: 15px !important;
 }
